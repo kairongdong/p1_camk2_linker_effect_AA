@@ -8,7 +8,7 @@ Updated by: Kairong Dong
 
 # This repository include:
 
-1_tructure models : including the initial models and the equilibrated models.   
+1_structure models : including the initial models and the equilibrated models.   
 
 2_simulation_scripts: including the loop modeling, simulation and analysis scripts.  
   

@@ -28,6 +28,7 @@
 2. The scripts for energy minimization and equilibration and the output system infomation can be find in this folder under current folder: minimization_and_equilibration
 3. The scripts for production and structures after simulation production of equilibrated state can be found in this folder under current folder: camk2_production/
     eg: the structure of camk2d-exon18 after one equilibration production: camk2_production/camk2d/exon18/18_s1_400k.gro
+4. The running time of one single trajectory on a normal computer with one GPU takes around 5-6 days.
 
 ## Analyze of the RMSD, RMSF and pairwise distance are done with GROMACS
 
